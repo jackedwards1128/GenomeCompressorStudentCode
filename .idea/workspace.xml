@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73ab661-840a-4b64-b072-3764519be013" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Genome Compressor Student Code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryStdIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryStdOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlickCompressor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlickTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DumpBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenomeCompressor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genomeCheck.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genomeTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/virus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryStdIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryStdOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DumpBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenomeCompressor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testback.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WORK_LOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/WORK_LOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenomeCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenomeCompressor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jackedwards1128&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ztblick/GenomeCompressorStudentCode&quot;,
+    &quot;accountId&quot;: &quot;105240a5-6d23-460a-bed0-bb61c92e8802&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kcGqQKT0vkDTJ0bFSJOEbWqppH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,14 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.GenomeCompressor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />

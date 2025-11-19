@@ -1,9 +1,11 @@
 Name: YOUR NAME HERE
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date                         |  Time   |                                                                                                                                                                                                                                                                                                                                                                                           Update |
+|:-----------------------------|:-------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| November before theory class | A block | I'm gonna be honest I didn't work-log my attempt of this compressor prior to the theory class as I was coding. I basically just coded the standard solution where you have an if-statement chain that converts whatever char it is to the binary it should print to the output. And of course I got the error with the extraneous zeros at the end, which I learned about during our theory day! |
+|                              |         |                                                                                                                                                                Now it is work time and I feel like I know exactly what I gotta do. I'll write an integer that holds the length of the data at the start, and when I expand my for-loop variable will be bounded by the length read at the start. |
+|                              |         |                                                                                                                                                    Okay I finished allat, and then I also went through my code and realized I can use maps EVERYWHERE! So now I have three maps in my code, and LITERALLY zero if-statements! Huzzah! "You merely adopted constant time. I was born in it" -Bane |
+|                              |         |                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
